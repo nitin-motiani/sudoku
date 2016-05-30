@@ -1,0 +1,4 @@
+A simple sudoku playing program in Java
+
+* The viewer is created using Swing components, and allows user to enter the input. 
+* The player is simple DFS implementation. 
